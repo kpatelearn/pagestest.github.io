@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>  
+<html>
+
+	<head>
+		<title>BunnyBot2</title>
+	</head>  
+
+	<body>
+        <h1>BunnyBot</h1>
+        <p id="botChat">What is your name?</p>
+        <h1 id="user">User</h1>
+        <input type="text" id="userInput">
+        <button id="submit">Submit</button>
+
+        <script src="Tia.js"></script>
+	</body>  
+	
+</html>  
+
